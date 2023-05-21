@@ -13,7 +13,7 @@ N/A
 
 ## Screenshot
 
-![image](/assets/images/Horiseon Website Screenshot_1.png)
+![image](/assets/images/Horiseon-Website-Screenshot_1.png)
 ![image](/assets/images/Horiseon Website Screenshot_2.png)
 ## Installation
 N/A
