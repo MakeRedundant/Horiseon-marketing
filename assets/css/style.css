@@ -92,17 +92,17 @@ p {
 /*sets the text color to white*/
 .benefit-lead {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #ffffff; /*sets text color as white*/
 }
 
 .benefit-brand {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #ffffff; /*sets text color as white*/
 }
 
 .benefit-cost {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #ffffff; /*sets text color as white*/
 }
 
 .benefit-lead h3 {
@@ -144,7 +144,7 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb; /*sets the background to blue*/
-    color: #ffffff; /*sets the font color to white */
+    color: #ffffff; /*sets the text color to white */
 }
 /* CSS styling for the Reputation section in the main section */
 .online-reputation-management {
@@ -165,15 +165,15 @@ p {
     color: #ffffff; /*sets the font color to white */
 }
 /* CSS styling for the 3 images in the main section */
-.search-engine-optimization img {
+.search-engine-optimization img { /* sets the maximum height to 200px*/
+    max-height: 200px; 
+}
+
+.online-reputation-management img { /* sets the maximum height to 200px*/
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
+.social-media-marketing img {/* sets the maximum height to 200px*/
     max-height: 200px;
 }
 
@@ -194,7 +194,8 @@ p {
 /*CSS Styling for the footer (bottom of the page */
 .footer {
     padding: 30px;
-    clear: both;
+    clear: both; /* clears both sides for footer class elements so it
+    doesn't overlap with other floated content */
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center; /*aligns the text into the center */
 }
