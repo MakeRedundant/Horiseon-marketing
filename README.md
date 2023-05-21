@@ -1,39 +1,42 @@
-Horiseon Wepage
-Description
-Horiseon is a marketing agency that wanted their website to meet accessibility standards and improve search engine optimisation. This wepage contains information about search engine optimatization, online reputation management, social media marketing, and more. I have learned the usage of semantic element tags that clearly defines the contents withn the page to improve readbility and accessibility. 
+# Horiseon Website
+## Description
+Horiseon Social Services is a marketing agency that wanted their website to meet accessibility standards and improve search engine optimisation. This wepage contains information about search engine optimatization, online reputation management, social media marketing, and more. I have learned the usage of semantic element tags that clearly defines the contents withn the page to improve readbility and accessibility. 
 
-Installation
+## Installation
 N/A
 
-Usage
+## Usage
 You can click the link and view the website, with the inspect dev tools you can see the HTML and the semantic changes made to the webpage.
 
-Credits
+## Credits
 N/A
 
-Screenshot
+## Screenshot
 
-Installation
+![image](/assets/images/Horiseon Website Screenshot_1.png)
+![image](/assets/images/Horiseon Website Screenshot_2.png)
+## Installation
 N/A
 
-Usage
+## Usage
 N/A
 
-Support
+## Support
 N/A
 
-Roadmap
+## Roadmap
 N/A
 
-Contributing
+## Contributing
 N/A
 
-Authors and acknowledgment
+## Authors and acknowledgment
 Brian Trang
 
-With thanks to Horiseon and USYD 
+With thanks to Horiseon Social Solution Services, Inc
+and USYD 
 
 
-License
+## License
 Please refer to the license in the repo
 
